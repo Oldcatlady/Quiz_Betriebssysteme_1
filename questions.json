@@ -1,0 +1,794 @@
+[
+{
+"id": 1,
+"question": "Welches ist die erste Schicht im Betriebssystemmodell?",
+"options": {
+"A": "Kernel",
+"B": "Hardware",
+"C": "Shell",
+"D": "Anwendungsprogramme"
+},
+"correctAnswer": "B",
+"explanation": "Die Hardware bildet die unterste Schicht eines Computersystems."
+},
+{
+"id": 2,
+"question": "Welches ist die zweite Schicht im Betriebssystemmodell?",
+"options": {
+"A": "Hardware",
+"B": "Hardware Abstraction Layer",
+"C": "Kernel",
+"D": "Shell"
+},
+"correctAnswer": "B",
+"explanation": "Die HAL abstrahiert die Hardware für das Betriebssystem."
+},
+{
+"id": 3,
+"question": "Welches ist die dritte Schicht im Betriebssystemmodell?",
+"options": {
+"A": "Kernel",
+"B": "Shell",
+"C": "Hardware",
+"D": "Anwendungsprogramme"
+},
+"correctAnswer": "A",
+"explanation": "Der Kernel verwaltet zentrale Systemressourcen."
+},
+{
+"id": 4,
+"question": "Welches ist die vierte Schicht im Betriebssystemmodell?",
+"options": {
+"A": "Kernel",
+"B": "Shell",
+"C": "Hardware Abstraction Layer",
+"D": "Anwendungsprogramme"
+},
+"correctAnswer": "B",
+"explanation": "Die Shell dient als Benutzerschnittstelle."
+},
+{
+"id": 5,
+"question": "Welches ist die fünfte Schicht im Betriebssystemmodell?",
+"options": {
+"A": "Anwendungsprogramme",
+"B": "Kernel",
+"C": "Shell",
+"D": "Hardware"
+},
+"correctAnswer": "A",
+"explanation": "Anwendungsprogramme bilden die oberste Ebene."
+},
+{
+"id": 6,
+"question": "Von welchem Unternehmen ist Bill Gates der Chef?",
+"options": {
+"A": "Apple",
+"B": "Microsoft",
+"C": "IBM",
+"D": "Oracle"
+},
+"correctAnswer": "B",
+"explanation": "Bill Gates ist Mitgründer von Microsoft."
+},
+{
+"id": 7,
+"question": "Womit hat Steve Jobs zu tun?",
+"options": {
+"A": "Microsoft",
+"B": "Apple",
+"C": "Linux",
+"D": "Intel"
+},
+"correctAnswer": "B",
+"explanation": "Steve Jobs war Mitgründer von Apple."
+},
+{
+"id": 8,
+"question": "Was hat Linus Torvalds sich überlegt?",
+"options": {
+"A": "Windows Kernel",
+"B": "Linux-Kernel",
+"C": "UNIX",
+"D": "GNU Compiler"
+},
+"correctAnswer": "B",
+"explanation": "Er entwickelte den Linux-Kernel."
+},
+{
+"id": 9,
+"question": "Welches Projekt hat Richard Stallman bearbeitet?",
+"options": {
+"A": "Linux Kernel",
+"B": "GNU-Projekt",
+"C": "Windows NT",
+"D": "Android"
+},
+"correctAnswer": "B",
+"explanation": "Das GNU-Projekt steht für freie Software."
+},
+{
+"id": 10,
+"question": "Wofür war Ken Thompson verantwortlich?",
+"options": {
+"A": "Windows",
+"B": "UNIX",
+"C": "Linux",
+"D": "MacOS"
+},
+"correctAnswer": "B",
+"explanation": "Ken Thompson war Entwickler von UNIX."
+},
+{
+"id": 11,
+"question": "Was für eine Art Rechner-Komponente ist eine CPU?",
+"options": {
+"A": "Hardware",
+"B": "Systemsoftware",
+"C": "Anwendungssoftware",
+"D": "Firmware"
+},
+"correctAnswer": "A",
+"explanation": "Die CPU ist ein physisches Bauteil."
+},
+{
+"id": 12,
+"question": "Was für eine Art Rechner-Komponente ist PowerShell?",
+"options": {
+"A": "Hardware",
+"B": "Anwendungssoftware",
+"C": "ander software",
+"D": "Firmware"
+},
+"correctAnswer": "C",
+"explanation": "PowerShell ist eine andere Art von Software."
+},
+{
+"id": 13,
+"question": "Was für eine Art Rechner-Komponente ist ein Grafikkarten-Treiber?",
+"options": {
+"A": "Systemsoftware",
+"B": "Hardware",
+"C": "Anwendungssoftware",
+"D": "Firmware"
+},
+"correctAnswer": "A",
+"explanation": "Treiber gehören zur Systemsoftware."
+},
+{
+"id": 14,
+"question": "Was für eine Art Rechner-Komponente ist ein Motherboard?",
+"options": {
+"A": "Anwendungssoftware",
+"B": "Systemsoftware",
+"C": "Hardware",
+"D": "Firmware"
+},
+"correctAnswer": "C",
+"explanation": "Das Motherboard ist physische Hardware."
+},
+{
+"id": 15,
+"question": "Was für eine Art Rechner-Komponente sind Office-Programme?",
+"options": {
+"A": "Systemsoftware",
+"B": "Firmware",
+"C": "Hardware",
+"D": "Anwendungssoftware"
+},
+"correctAnswer": "D",
+"explanation": "Office-Programme sind Benutzeranwendungen."
+},
+{
+"id": 16,
+"question": "Was für eine Art Rechner-Komponente ist ein Netzteil?",
+"options": {
+"A": "Hardware",
+"B": "Systemsoftware",
+"C": "Anwendungssoftware",
+"D": "Treiber"
+},
+"correctAnswer": "A",
+"explanation": "Das Netzteil ist ein physisches Bauteil."
+},
+{
+"id": 17,
+"question": "Was für eine Art Rechner-Komponente ist Windows 10?",
+"options": {
+"A": "Systemsoftware",
+"B": "Hardware",
+"C": "Firmware",
+"D": "Anwendungssoftware"
+},
+"correctAnswer": "A",
+"explanation": "Windows 10 gehört zur System-Software."
+},
+{
+"id": 18,
+"question": "Was für eine Art Rechner-Komponente ist ein USB-Stick?",
+"options": {
+"A": "Systemsoftware",
+"B": "Hardware",
+"C": "Firmware",
+"D": "Anwendungssoftware"
+},
+"correctAnswer": "B",
+"explanation": "Ein USB-Stick ist Hardware."
+},
+{
+"id": 19,
+"question": "Was stellt Dienste bereit, die die Aufgaben der Benutzer vereinfachen, und verwaltet Betriebsmittel um einen wirkungsvollen Rechnerbetrieb sicherzustellen?",
+"options": {
+"A": "Compiler",
+"B": "Betriebssystem",
+"C": "BIOS",
+"D": "Treiber"
+},
+"correctAnswer": "B",
+"explanation": "Das Betriebssystem verwaltet Ressourcen und Dienste."
+},
+{
+"id": 20,
+"question": "Wie unterscheiden sich die Bezeichnungen der Windows-Server Versionen?",
+"options": {
+"A": "Durch Benutzeranzahl",
+"B": "Durch Jahreszahl",
+"C": "Durch CPU-Typ",
+"D": "Durch Architektur"
+},
+"correctAnswer": "B",
+"explanation": "Serverversionen sind nach Jahren benannt."
+},
+{
+"id": 21,
+"question": "Mit welcher Windows-Version wurden DOS und NT zusammengeführt?",
+"options": {
+"A": "Windows XP",
+"B": "Windows 2000",
+"C": "Windows 7",
+"D": "Windows Vista"
+},
+"correctAnswer": "A",
+"explanation": "Windows XP vereinte beide Linien."
+},
+{
+"id": 22,
+"question": "Welches Betriebssystem entstand in den 1970er Jahren und war danach vor allem an Universitäten sehr verbreitet?",
+"options": {
+"A": "Windows",
+"B": "Linux",
+"C": "UNIX",
+"D": "MacOS"
+},
+"correctAnswer": "C",
+"explanation": "UNIX wurde in den 1970ern entwickelt."
+},
+{
+"id": 23,
+"question": "Welche Aufgabe hat die Abstraktionsschicht in einem Betriebssystem?",
+"options": {
+"A": "Die Abstraktionsschicht in einem Betriebssystem verwaltet die Prozessplanung",
+"B": "Sie versteckt Hardwarekomplexität.",
+"C": "Sie steuert laufende Programme.",
+"D": "Die Abstraktionsschicht verwaltet Ressourcen und Dienste."
+},
+"correctAnswer": "B",
+"explanation": "Sie verbirgt die konkrete Hardware und stellt Anwendungen eine einheitliche Schnittstelle zur Verfügung, sodass sie unabhängig von der Hardware arbeiten können. Sie versteckt Hardwarekomplexität."
+},
+{
+"id": 24,
+"question": "Welche Aufgabe hat die Speicherverwaltung in einem Betriebssystem?",
+"options": {
+"A": "Überwacht Speichernutzung, Belegung und Freigabe",
+"B": "Prozesssteuerung",
+"C": "Dateisystemdesign",
+"D": "Netzwerkzugriff"
+},
+"correctAnswer": "A",
+"explanation": "Sie verwaltet RAM."
+},
+{
+"id": 25,
+"question": "Welche Aufgabe hat die Geräte/ Datei-Verwaltung in einem Betriebssystem?",
+"options": {
+"A": "Stellt CPU-Steuerung für Prozesse zur verfügung",
+"B": "Stellt Geräte- und Datei-Ressourcen für Prozesse zur verfügung",
+"C": "Stellt Benutzerrechte für Prozesse zur verfügung",
+"D": "Stellt den Bootprozess für Prozesse zur verfügung"
+},
+"correctAnswer": "B",
+"explanation": "Sie organisiert Ressourcenzugriffe."
+},
+{
+"id": 26,
+"question": "Welche Aufgabe hat die Prozessverwaltung in einem Betriebssystem?",
+"options": {
+"A": "Interprozesskommunikation steuern, Steuerung des Speicherzugriffs und der Rechenzeit, Prozesse erzeugen",
+"B": "Steuerung der Prozessinternen Speicherfragmentierung",
+"C": "Übergeordnete Hardwareinstallation nach Treiberupdates",
+"D": "BIOS-Steuerung im interkommunikations-Reboot"
+},
+"correctAnswer": "A",
+"explanation": "Sie steuert laufende Programme."
+},
+{
+"id": 27,
+"question": "Welche Aufgabe hat die Rechteverwaltung in einem Betriebssystem?",
+"options": {
+"A": "CPU-Zuteilung aller laufenden Partitionen",
+"B": "Steuerung der Zugriffsrechte auf Hardware, Programme, Dateien und die Benutzerauthentifizierung",
+"C": "Speicheroptimierung der Zugriffsrechte auf RAM im laufenden Prozess",
+"D": "Hardwareinitialisierung bei Updaterelevanz Systemkritischer Komponenten"
+},
+"correctAnswer": "B",
+"explanation": "Sie kontrolliert Benutzerrechte."
+},
+{
+"id": 28,
+"question": "In welchen Modi können Prozesse starten?",
+"options": {
+"A": "Im Kernel-Modus und Treiber-Modus",
+"B": "Im User-Modus und Kernel-Modus",
+"C": "Im System-Modus und Hardware-Modus",
+"D": "Im Prozess- und Speicher-Modus"
+},
+"correctAnswer": "B",
+"explanation": "Prozesse laufen entweder im eingeschränkten User-Modus oder im privilegierten Kernel-Modus."
+},
+{
+"id": 29,
+"question": "Bei welcher Art von Kernel muss der Kernel nach einer Änderung komplett neu kompiliert werden?",
+"options": {
+"A": "Beim Microkernel",
+"B": "Beim Hybridkernel",
+"C": "Beim Monolithischen Kernel",
+"D": "Beim Exokernel"
+},
+"correctAnswer": "C",
+"explanation": "Monolithische Kernel sind eng gekoppelt, Änderungen erfordern eine Neukompilierung."
+},
+{
+"id": 30,
+"question": "Bei welcher Art von Kernel sind Funktionen leicht auswechselbar?",
+"options": {
+"A": "Beim Monolithischen Kernel",
+"B": "Beim Hybridkernel",
+"C": "Beim Microkernel",
+"D": "Beim BIOS-Kernel"
+},
+"correctAnswer": "C",
+"explanation": "Microkernel sind modular aufgebaut, Funktionen sind austauschbar."
+},
+{
+"id": 31,
+"question": "Um welche Art von Kernel handelt es sich beim Windows-Kernel?",
+"options": {
+"A": "Um einen Microkernel",
+"B": "Um einen Monolithischen Kernel",
+"C": "Um einen Hybridkernel",
+"D": "Um einen Exokernel"
+},
+"correctAnswer": "C",
+"explanation": "Windows nutzt einen Hybridkernel als Kombination aus beiden Ansätzen."
+},
+{
+"id": 32,
+"question": "Bei welcher Art von Kernel ist der Absturz von Kernelkomponenten unkritisch?",
+"options": {
+"A": "Beim Monolithischen Kernel",
+"B": "Beim Microkernel",
+"C": "Beim Hybridkernel",
+"D": "Beim Exokernel"
+},
+"correctAnswer": "B",
+"explanation": "Beim Microkernel sind Komponenten getrennt, daher führt ein Absturz einzelner Teile nicht zum Systemabsturz."
+},
+{
+"id": 33,
+"question": "Bei welcher Art von Kernel kommt es zum Kompromiss zweier Kerneltypen?",
+"options": {
+"A": "Beim Microkernel",
+"B": "Beim Monolithischen Kernel",
+"C": "Beim Hybridkernel",
+"D": "Beim Nanokernel"
+},
+"correctAnswer": "C",
+"explanation": "Der Hybridkernel kombiniert Eigenschaften von Micro- und Monolithischem Kernel."
+},
+{
+"id": 34,
+"question": "Welche Art von Kernel erfüllt nur grundlegende Funktionen?",
+"options": {
+"A": "Der Monolithische Kernel",
+"B": "Der Hybridkernel",
+"C": "Der Microkernel",
+"D": "Der Exokernel"
+},
+"correctAnswer": "C",
+"explanation": "Der Microkernel enthält nur minimale Kernfunktionen."
+},
+{
+"id": 35,
+"question": "Bei welcher Art von Kernel sind Rechen- und Zeitaufwand gering?",
+"options": {
+"A": "Beim Microkernel",
+"B": "Beim Hybridkernel",
+"C": "Beim Monolithischen Kernel",
+"D": "Beim Exokernel"
+},
+"correctAnswer": "C",
+"explanation": "Monolithische Kernel arbeiten direkt im Kernelraum und sind dadurch schneller."
+},
+{
+"id": 36,
+"question": "Welche Schicht im Betriebssystemmodell grenzt den Kernel-Modus vom Benutzer ab?",
+"options": {
+"A": "Die Hardware Abstraction Layer",
+"B": "Die Shell",
+"C": "Der Kernel",
+"D": "Die Anwendungsprogramme"
+},
+"correctAnswer": "B",
+"explanation": "Die Shell bildet die Benutzerschnittstelle und trennt Benutzerinteraktion vom Kernel."
+},
+{
+"id": 37,
+"question": "Wann wird ein Echtzeit-Betriebssystem benutzt?",
+"options": {
+"A": "Bei Büroanwendungen",
+"B": "Bei Internetbrowsern",
+"C": "Bei Mess- und Steuerungsprozessen",
+"D": "Bei Spieleentwicklung"
+},
+"correctAnswer": "C",
+"explanation": "Echtzeitbetriebssysteme werden eingesetzt, wenn Reaktionen zeitkritisch sind."
+},
+{
+"id": 38,
+"question": "Bei welchem Betriebssystem stehen Berechnungs-Ergebnisse nach einer definierten Zeit zur Verfügung?",
+"options": {
+"A": "Beim Batchbetriebssystem",
+"B": "Beim universellen Betriebssystem",
+"C": "Beim Echtzeitbetriebssystem",
+"D": "Beim Multitasking-System"
+},
+"correctAnswer": "C",
+"explanation": "Echtzeitbetriebssysteme garantieren zeitlich definierte Ergebnisse."
+},
+{
+"id": 39,
+"question": "Was zeichnet ein universelles Betriebssystem aus?",
+"options": {
+"A": "Kombination von Einzelprozessverarbeitung und Shell-Boot",
+"B": "Kombination von Netzwerk- und Dialogbetriebssystemen",
+"C": "Kombination von Serverfunktionen und Abstraktions-Schicht",
+"D": "Kombination von Echtzeitfähigkeit und Microkernel"
+},
+"correctAnswer": "B",
+"explanation": "Universelle Betriebssysteme vereinen mehrere Betriebsarten."
+},
+{
+"id": 40,
+"question": "Welche Eigenschaften von Betriebssystem ermöglicht das gleichzeitige Ausführen von Anwendungsprammen?",
+"options": {
+"A": "Multiboot",
+"B": "Multitasking",
+"C": "Multiprocessing",
+"D": "Virtualisierung"
+},
+"correctAnswer": "B",
+"explanation": "Multitasking erlaubt parallele Prozessausführung."
+},
+{
+"id": 41,
+"question": "Was ist kooperatives Multitasking?",
+"options": {
+"A": "Prozesse werden durch die Shell synchronisiert",
+"B": "Prozesse werden nacheinander abgearbeitet",
+"C": "Prozesse laufen parallel, unabhängig von einander",
+"D": "Prozesse nutzen mehrere CPUs gleichzeitig"
+},
+"correctAnswer": "B",
+"explanation": "Jeder Prozess gibt die Kontrolle freiwillig ab. Das bedeutet, dass beim kooperativen Multitasking immer nur ein Prozess gleichzeitig läuft und selbst entscheidet, wann er die CPU wieder freigibt. Es gibt keine erzwungene Unterbrechung durch das Betriebssystem, daher kann ein Prozess das System blockieren, wenn er die Kontrolle nicht abgibt. Dadurch wirkt es zwar wie eine nacheinander abgearbeitete Ausführung, tatsächlich bestimmt aber jeder Prozess selbst, wann der nächste ausgeführt wird."
+},
+{
+"id": 42,
+"question": "Was ist präemptives Multitasking?",
+"options": {
+"A": "Prozesse laufen ohne Zeitsteuerung",
+"B": "Prozesse entscheiden selbst über CPU-Nutzung",
+"C": "Vordefinierte Rechenzeit",
+"D": "Nur ein Prozess gleichzeitig"
+},
+"correctAnswer": "C",
+"explanation": "Das Betriebssystem teilt feste Zeit-Slots zu."
+},
+{
+"id": 43,
+"question": "Welche Arten von Multitasking gibt es?",
+"options": {
+"A": "Batch und Interaktiv",
+"B": "Kooperatives und Präemptives",
+"C": "Parallel und Seriell",
+"D": "User und Kernel"
+},
+"correctAnswer": "B",
+"explanation": "Dies sind die zwei grundlegenden Multitasking-Arten."
+},
+{
+"id": 44,
+"question": "Bei welcher Art von Multitasking werden Prozesse nacheinander abgearbeitet?",
+"options": {
+"A": "Beim präemptiven Multitasking",
+"B": "Beim kooperativen Multitasking",
+"C": "Beim hybriden Multitasking",
+"D": "Beim parallelen Multitasking"
+},
+"correctAnswer": "B",
+"explanation": "Prozesse geben die CPU freiwillig weiter."
+},
+{
+"id": 45,
+"question": "Bei welcher Art von Multitasking gibt es eine vordefinierte Rechenzeit?",
+"options": {
+"A": "Beim kooperativen Multitasking",
+"B": "Beim präemptiven Multitasking",
+"C": "Beim Batch-Multitasking",
+"D": "Beim seriellen Multitasking"
+},
+"correctAnswer": "B",
+"explanation": "Das Betriebssystem steuert feste Zeitabschnitte."
+},
+{
+"id": 46,
+"question": "Welche Arten von Multiuser-Betriebssystemen gibt es?",
+"options": {
+"A": "Single- und Multitasking",
+"B": "Single- und Multisession",
+"C": "Mono- und Polybetrieb",
+"D": "Client- und Servermodus"
+},
+"correctAnswer": "B",
+"explanation": "Unterscheidung nach gleichzeitigen Sitzungen."
+},
+{
+"id": 47,
+"question": "Bei welcher Art von Multiuser-Betriebssystem gibt es nur einen Benutzer pro Session?",
+"options": {
+"A": "Multisession (AmigaOS )",
+"B": "Single-Session (Windows NT)",
+"C": "Remote-Session (MS-DOS )",
+"D": "Cluster-Session (Mac OS 9 )"
+},
+"correctAnswer": "B",
+"explanation": "Nur ein Benutzer arbeitet pro Sitzung."
+},
+{
+"id": 48,
+"question": "Bei welcher Art von Multiuser-Betriebssystem können mehrere User gleichzeitig arbeiten?",
+"options": {
+"A": "Single-Session (NeXTSTEP)",
+"B": "Batch-Session (BeOS)",
+"C": "Multisession (Windows-Server)",
+"D": "Local-Session (Windows NT 4.0)"
+},
+"correctAnswer": "C",
+"explanation": "Mehrere Benutzer können gleichzeitig aktiv sein."
+},
+{
+"id": 49,
+"question": "Ist BIOS eine ältere oder neuere Firmware-Variante?",
+"options": {
+"A": "BIOS ist ein grundlegender Standard",
+"B": "BIOS ist immer Aktuell durch Updates",
+"C": "ältere Variante",
+"D": "moderne Variante"
+},
+"correctAnswer": "C",
+"explanation": "BIOS ist die ältere klassische Firmware."
+},
+{
+"id": 50,
+"question": "Ist UEFI eine ältere oder neuere Firmware-Variante?",
+"options": {
+"A": "ältere Variante",
+"B": "neuere Variante",
+"C": "experimentelle Variante, noch kein Standard",
+"D": "UEFI wurde speziell für Apple entwickelt"
+},
+"correctAnswer": "B",
+"explanation": "UEFI ist der moderne Nachfolger von BIOS."
+},
+{
+"id": 51,
+"question": "Welche Firmware-Variante hat ein Basic Input and Output System?",
+"options": {
+"A": "UEFI",
+"B": "BIOS",
+"C": "GPT",
+"D": "Bootloader"
+},
+"correctAnswer": "B",
+"explanation": "BIOS steht für Basic Input Output System."
+},
+{
+"id": 52,
+"question": "Welche Firmware-Variante hat ein Unified Extensible Firmware Interface?",
+"options": {
+"A": "BIOS",
+"B": "GPT",
+"C": "UEFI",
+"D": "MBR"
+},
+"correctAnswer": "C",
+"explanation": "UEFI ist die moderne Firmware-Schnittstelle."
+},
+{
+"id": 53,
+"question": "Welche Firmware-Variante ist textbasiert?",
+"options": {
+"A": "UEFI",
+"B": "BIOS",
+"C": "GPT",
+"D": "Boot Manager"
+},
+"correctAnswer": "B",
+"explanation": "BIOS nutzt eine textbasierte Oberfläche."
+},
+{
+"id": 54,
+"question": "Welche Firmware-Variante ist grafikbasiert (Maussteuerung)?",
+"options": {
+"A": "BIOS",
+"B": "MBR",
+"C": "UEFI",
+"D": "Bootsector"
+},
+"correctAnswer": "C",
+"explanation": "UEFI unterstützt grafische Benutzeroberflächen."
+},
+{
+"id": 55,
+"question": "Wie viele primäre Partitionen hat ein MBR?",
+"options": {
+"A": "maximal 2",
+"B": "maximal 4",
+"C": "maximal 8",
+"D": "unbegrenzt"
+},
+"correctAnswer": "B",
+"explanation": "MBR erlaubt nur vier primäre Partitionen."
+},
+{
+"id": 56,
+"question": "Wofür steht MBR?",
+"options": {
+"A": "Main Boot Routine",
+"B": "Master Boot Record",
+"C": "Memory Boot Registry",
+"D": "Multi Boot Record"
+},
+"correctAnswer": "B",
+"explanation": "MBR ist der erste Bootsektor eines Datenträgers."
+},
+{
+"id": 57,
+"question": "Kann eine erweiterte Partition auch eine logische Partition enthalten?",
+"options": {
+"A": "Nein",
+"B": "Nur bei UEFI",
+"C": "Ja",
+"D": "Nur bei GPT"
+},
+"correctAnswer": "C",
+"explanation": "Erweiterte Partitionen können logische Laufwerke enthalten."
+},
+{
+"id": 58,
+"question": "Was ist eine Partition?",
+"options": {
+"A": "ein logisch abgegrenzter Bereich im Netzwerkprotokoll",
+"B": "ein logisch abgegrenzter Bereich im Bootprogramm",
+"C": "ein logisch abgegrenzter Bereich auf einem physischen Datenträger",
+"D": "ein logisch abgegrenzter Bereich im BIOS Treiber"
+},
+"correctAnswer": "C",
+"explanation": "Partitionen teilen eine Festplatte logisch auf."
+},
+{
+"id": 59,
+"question": "Wie viele Byte werden auf der ersten Festplatte vom Master Boot Record belegt?",
+"options": {
+"A": "256 Byte",
+"B": "1024 Byte",
+"C": "512 Byte",
+"D": "2048 Byte"
+},
+"correctAnswer": "C",
+"explanation": "Der MBR belegt genau einen 512-Byte-Sektor."
+},
+{
+"id": 60,
+"question": "Wofür steht GPT (nicht die KI)?",
+"options": {
+"A": "General Partition Table",
+"B": "Graphical Partition Table",
+"C": "GUID Partition Table",
+"D": "Global Partition Table"
+},
+"correctAnswer": "C",
+"explanation": "GPT nutzt weltweit eindeutige IDs (GUIDs)."
+},
+{
+"id": 61,
+"question": "Ist GPT auf maximal 10 Partitionen beschränkt?",
+"options": {
+"A": "Ja",
+"B": "Nur bei Windows",
+"C": "Nein",
+"D": "Nur bei BIOS"
+},
+"correctAnswer": "C",
+"explanation": "GPT unterstützt sehr viele Partitionen."
+},
+{
+"id": 62,
+"question": "Hat GPT eine zweite (Backup-) Partitionstabelle?",
+"options": {
+"A": "Nein",
+"B": "Nur optional",
+"C": "Ja",
+"D": "Nur bei Linux"
+},
+"correctAnswer": "C",
+"explanation": "GPT speichert eine Kopie der Partitionstabelle."
+},
+{
+"id": 63,
+"question": "Benötigt UEFI GPT um ein Betriebssystem zu starten?",
+"options": {
+"A": "Nein",
+"B": "Nur optional",
+"C": "Ja",
+"D": "Nur bei Legacy Mode"
+},
+"correctAnswer": "C",
+"explanation": "UEFI arbeitet standardmäßig mit GPT."
+},
+{
+"id": 64,
+"question": "Wird das Trusted Platform Module bei GPT unterstützt?",
+"options": {
+"A": "Ja",
+"B": "Nein, das ist falsch!",
+"C": "Nur teilweise",
+"D": "Nur bei BIOS"
+},
+"correctAnswer": "A",
+"explanation": "TPM wird von modernen Systemen mit GPT unterstützt."
+},
+{
+"id": 65,
+"question": "Benötigt GPT einen Bootloader auf den ersten 512 MB der Festplatte?",
+"options": {
+"A": "Ja",
+"B": "Nur bei BIOS",
+"C": "Nein",
+"D": "Nur bei Windows"
+},
+"correctAnswer": "C",
+"explanation": "GPT arbeitet mit UEFI und benötigt keinen klassischen MBR-Bootloader."
+},
+{
+"id": 66,
+"question": "Was ist ein Bootloader?",
+"options": {
+"A": "Ein Hardwarebauteil, das den Prozessor initialisiert und den Arbeitsspeicher testet",
+"B": "Ein kleines Programm, das beim Einschalten des Computers als erstes ausgeführt wird und das Betriebssystem startet",
+"C": "Ein Treiber, der die Kommunikation zwischen Betriebssystem und Festplatte regelt",
+"D": "Eine Firmware-Komponente, die ausschließlich Netzwerkverbindungen beim Start aufbaut"
+},
+"correctAnswer": "B",
+"explanation": "Der Bootloader ist ein sehr kleines Programm, das direkt nach dem Einschalten oder Reset des Systems gestartet wird. Seine Aufgabe ist es, das Betriebssystem zu laden und dessen Start einzuleiten."
+}
+] 
