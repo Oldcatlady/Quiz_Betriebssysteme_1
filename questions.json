@@ -1,4 +1,244 @@
 [
+    {
+    "question": "Was beschreibt Hardware am besten?",
+    "type": "mc",
+    "options": [
+      "Physische, anfassbare Komponenten eines Computers",
+      "Programme und Anwendungen",
+      "Nur das Betriebssystem",
+      "Nur Daten im Internet"
+    ],
+    "answer": "Physische, anfassbare Komponenten eines Computers",
+    "explanation": "Hardware umfasst alle materiellen Teile eines Computers wie CPU, RAM oder Festplatten."
+  },
+  {
+    "question": "Welche Komponente gehört zur Software?",
+    "type": "mc",
+    "options": [
+      "RAM",
+      "Prozessor",
+      "Treiber",
+      "Motherboard"
+    ],
+    "answer": "Treiber",
+    "explanation": "Treiber sind Programme und gehören damit zur Software."
+  },
+  {
+    "question": "Welche Aufgabe hat das BIOS bzw. UEFI beim Start eines Rechners?",
+    "type": "mc",
+    "options": [
+      "Spiele ausführen",
+      "Hardware initialisieren und Bootgerät finden",
+      "Internetverbindungen herstellen",
+      "Dateien löschen"
+    ],
+    "answer": "Hardware initialisieren und Bootgerät finden",
+    "explanation": "BIOS/UEFI führt den POST aus und startet den Bootprozess."
+  },
+  {
+    "question": "Welche Definition beschreibt ein Betriebssystem am besten?",
+    "type": "mc",
+    "options": [
+      "Ein Grafikprogramm",
+      "Programme zur Steuerung von Hardware und Ressourcen",
+      "Ein Webbrowser",
+      "Eine Programmiersprache"
+    ],
+    "answer": "Programme zur Steuerung von Hardware und Ressourcen",
+    "explanation": "Ein Betriebssystem verwaltet Hardware, Prozesse und Ressourcen."
+  },
+  {
+    "question": "Welche Aufgabe gehört NICHT zu einem Betriebssystem?",
+    "type": "mc",
+    "options": [
+      "Speicherverwaltung",
+      "Prozesssteuerung",
+      "Erstellen von 3D-Spielen",
+      "Dateiverwaltung"
+    ],
+    "answer": "Erstellen von 3D-Spielen",
+    "explanation": "Das Betriebssystem stellt Dienste bereit, entwickelt aber keine Spiele."
+  },
+  {
+    "question": "Welche Reihenfolge beschreibt das Abstraktionsmodell korrekt?",
+    "type": "mc",
+    "options": [
+      "Benutzermaschine → reale Maschine → abstrakte Maschine",
+      "Reale Maschine → abstrakte Maschine → Benutzermaschine",
+      "Abstrakte Maschine → reale Maschine → Benutzermaschine",
+      "Hardware → Software → Internet"
+    ],
+    "answer": "Reale Maschine → abstrakte Maschine → Benutzermaschine",
+    "explanation": "Die Abstraktion baut auf Hardware, Betriebssystem und Anwendungen auf."
+  },
+  {
+    "question": "Welche Speicherart ist die schnellste?",
+    "type": "mc",
+    "options": [
+      "Massenspeicher (SSD)",
+      "RAM",
+      "CPU-Register",
+      "Cache"
+    ],
+    "answer": "CPU-Register",
+    "explanation": "CPU-Register sind direkt in der CPU und extrem schnell."
+  },
+  {
+    "question": "Welche Aufgabe gehört zur Prozessverwaltung?",
+    "type": "mc",
+    "options": [
+      "Druckerdesign",
+      "Prozessorzeit verwalten",
+      "Fotos bearbeiten",
+      "Internetseiten erstellen"
+    ],
+    "answer": "Prozessorzeit verwalten",
+    "explanation": "Das Betriebssystem verteilt Rechenzeit auf Prozesse."
+  },
+  {
+    "question": "Wozu dient die Rechteverwaltung im Betriebssystem?",
+    "type": "mc",
+    "options": [
+      "Erhöhung der CPU-Leistung",
+      "Schutz vor unbefugtem Zugriff",
+      "Speicher vergrößern",
+      "Programme schneller machen"
+    ],
+    "answer": "Schutz vor unbefugtem Zugriff",
+    "explanation": "Rechteverwaltung regelt Benutzerzugriffe und Sicherheit."
+  },
+  {
+    "question": "Was war typisch für Betriebssysteme vor 1960?",
+    "type": "mc",
+    "options": [
+      "Multitasking",
+      "Keine echten Betriebssysteme, direkte Programmausführung",
+      "Touchscreens",
+      "Cloud Computing"
+    ],
+    "answer": "Keine echten Betriebssysteme, direkte Programmausführung",
+    "explanation": "Programme wurden direkt auf die Hardware geladen."
+  },
+  {
+    "question": "Was war CTSS (1961)?",
+    "type": "mc",
+    "options": [
+      "Erstes Computerspiel",
+      "Erstes Mehrbenutzer-Betriebssystem",
+      "Ein Hardwarechip",
+      "Ein Compiler"
+    ],
+    "answer": "Erstes Mehrbenutzer-Betriebssystem",
+    "explanation": "CTSS erlaubte mehreren Benutzern gleichzeitig Zugriff."
+  },
+  {
+    "question": "Wann entstand Unix?",
+    "type": "mc",
+    "options": [
+      "1971",
+      "1985",
+      "1995",
+      "1960"
+    ],
+    "answer": "1971",
+    "explanation": "Unix wurde 1971 entwickelt."
+  },
+  {
+    "question": "Wer entwickelte den Linux-Kernel?",
+    "type": "mc",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Linus Torvalds",
+      "Dennis Ritchie"
+    ],
+    "answer": "Linus Torvalds",
+    "explanation": "Linux wurde 1991 von Linus Torvalds entwickelt."
+  },
+  {
+    "question": "Was ist ein Vorteil eines monolithischen Kernels?",
+    "type": "mc",
+    "options": [
+      "Sehr langsam",
+      "Einfach austauschbare Komponenten",
+      "Geringer Rechenaufwand und hohe Performance",
+      "Keine Hardwareunterstützung"
+    ],
+    "answer": "Geringer Rechenaufwand und hohe Performance",
+    "explanation": "Monolithische Kernel sind effizient, aber schwer zu ändern."
+  },
+  {
+    "question": "Was ist ein Microkernel?",
+    "type": "mc",
+    "options": [
+      "Ein Kernel ohne Prozesse",
+      "Ein Kernel mit nur Grundfunktionen wie IPC und Speicherverwaltung",
+      "Ein Grafiktreiber",
+      "Ein Dateisystem"
+    ],
+    "answer": "Ein Kernel mit nur Grundfunktionen wie IPC und Speicherverwaltung",
+    "explanation": "Microkernel enthalten nur minimale Kernfunktionen."
+  },
+  {
+    "question": "Welche Betriebsart benötigt feste Reaktionszeiten?",
+    "type": "mc",
+    "options": [
+      "Batch-Betrieb",
+      "Realtime-Betrieb",
+      "Dialogbetrieb",
+      "Offline-Betrieb"
+    ],
+    "answer": "Realtime-Betrieb",
+    "explanation": "Echtzeitsysteme müssen innerhalb fester Fristen reagieren."
+  },
+  {
+    "question": "Was passiert im POST beim Booten?",
+    "type": "mc",
+    "options": [
+      "Programme werden installiert",
+      "Hardware wird getestet",
+      "Internet wird verbunden",
+      "Benutzer werden angelegt"
+    ],
+    "answer": "Hardware wird getestet",
+    "explanation": "POST prüft grundlegende Hardwarekomponenten."
+  },
+  {
+    "question": "Was ist der MBR?",
+    "type": "mc",
+    "options": [
+      "Ein Benutzerkonto",
+      "Der erste Block einer Festplatte mit Bootinformationen",
+      "Ein RAM-Modul",
+      "Ein Programm zur Videobearbeitung"
+    ],
+    "answer": "Der erste Block einer Festplatte mit Bootinformationen",
+    "explanation": "Der MBR enthält Partitionstabelle und Bootloader."
+  },
+  {
+    "question": "Was ist GPT im Vergleich zu MBR?",
+    "type": "mc",
+    "options": [
+      "Älter und weniger sicher",
+      "Unterstützt nur eine Partition",
+      "Moderner mit mehr Partitionen und Sicherung",
+      "Nur für RAM genutzt"
+    ],
+    "answer": "Moderner mit mehr Partitionen und Sicherung",
+    "explanation": "GPT ist flexibler und sicherer als MBR."
+  },
+  {
+    "question": "Welche Aufgabe hat der Kernel im Betriebssystem?",
+    "type": "mc",
+    "options": [
+      "Spiele starten",
+      "Zentrale Steuerung von Hardware und Prozessen",
+      "Grafiken zeichnen",
+      "Webseiten anzeigen"
+    ],
+    "answer": "Zentrale Steuerung von Hardware und Prozessen",
+    "explanation": "Der Kernel ist der zentrale Teil des Betriebssystems."
+  },
 {
 "id": 1,
 "question": "Welches ist die erste Schicht im Betriebssystemmodell?",
